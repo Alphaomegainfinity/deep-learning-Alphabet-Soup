@@ -22,6 +22,7 @@ INCOME_AMT—Income classification
 SPECIAL_CONSIDERATIONS—Special considerations for application
 
 ASK_AMT—Funding amount requested
+
 IS_SUCCESSFUL—Was the money used effectively
 
 
